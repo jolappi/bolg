@@ -3,5 +3,9 @@
 
 @import "{{ site.theme }}";
 
-header-bg-color: #F59957 !default;
-header-bg-color-secondary: #155799 !default;
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: linear-gradient(120deg, rgba(255, 0, 0, 0.3);, rgba(0, 255, 255, 0.3););
+}
