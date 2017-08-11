@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
+  text-transform: uppercase;
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
