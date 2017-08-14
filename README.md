@@ -2,7 +2,7 @@
 
 Ranting about something and nothing at the same time
 
-[###14.08.2017](File:14082017.md)
+[14.08.2017](14082017)
 
 ### 11.8.2017
 
