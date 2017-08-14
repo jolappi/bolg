@@ -2,7 +2,7 @@
 
 Ranting about something and nothing at the same time
 
-{% include 14082017.html %}
+[include](File:14082017.html)
 
 ### 11.8.2017
 
