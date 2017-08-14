@@ -2,8 +2,11 @@
 
 Ranting about something and nothing at the same time
 
-[14.08.2017](../14082017)
+[14.08.2017 Nothing but ...](../14082017)
 
+
+
+___________oldies___________
 ### 11.8.2017
 
 Nothing yet
