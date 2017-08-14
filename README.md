@@ -2,6 +2,8 @@
 
 Ranting about something and nothing at the same time
 
+{% inclue 14082017.html %}
+
 ### 11.8.2017
 
 Nothing yet
