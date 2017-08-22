@@ -12,8 +12,10 @@ Ranting about something and nothing at the same time
 
 ___________oldies___________
 
+### 12.8.2017
+
+After dentist and two day fast getting some pizza
+
 ### 11.8.2017
 
 Blog opened for public
-
-After dentist and two day fast getting some pizza
