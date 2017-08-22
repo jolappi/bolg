@@ -1,4 +1,4 @@
-[Back](.)
+
 
 ## My Bolg
 
@@ -21,3 +21,5 @@ After dentist and two day fast getting some pizza
 ### 11.8.2017
 
 Blog opened for public
+
+[If there's ever going back press this to do it, nicky](.)
