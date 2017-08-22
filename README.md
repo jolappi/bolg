@@ -22,4 +22,4 @@ After dentist and two day fast getting some pizza
 
 Blog opened for public
 
-[If there's ever going back press this to do it, nicky](.)
+[If there's ever going back press this to do it, nicky](..)
